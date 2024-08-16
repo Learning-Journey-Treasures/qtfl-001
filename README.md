@@ -1,4 +1,4 @@
-![gh_17810254f3db_258](https://github.com/user-attachments/assets/9d469219-5f9c-42c9-879c-d488b6cf99bf)
+**扫码 >> 源码商城 获取** ![qrcode_for_gh_1266b4b5294a_258 (2)](https://github.com/user-attachments/assets/45838afd-19a8-4cdc-bdd5-74b9c76fb241)
 
 **郑重申明：代码经过本地测试，确保可以正常运行。项目仅供学习或毕业设计参考~**
 
